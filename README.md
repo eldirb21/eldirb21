@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://youtu.be/SmvnpF8vLfA?si=z0raafFD2PbJ1Vk9">
-    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2Y4cWw3OXJ5N284eGllMDlibGlxd2Zmcmg4cTlla3NmOWc1ODM1bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NRjuf1IojpoeZfVTx7/giphy.gif" alt="ELDIRO">
+    <img src="https://youtu.be/SmvnpF8vLfA?si=z0raafFD2PbJ1Vk9" alt="ELDIRO">
   </a>
 </p>
 
