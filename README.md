@@ -15,7 +15,7 @@
 
 If you want to embed the video directly (e.g., for personal documentation or a non-GitHub platform where Markdown supports iframes), you can use:
 
-```html
+<!-- ```html -->
 <iframe width="560" height="315" 
 src="https://www.youtube.com/embed/T-D1KVIuvjA?autoplay=1" 
 title="YouTube video player" frameborder="0" 
