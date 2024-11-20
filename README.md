@@ -43,12 +43,12 @@
 
 <p align="center">
   <a href="https://github.com/eldirb21">
-  <a href="https://github.com/eldirb21/github-readme-stats" target="_blank">
+<!--   <a href="https://github.com/eldirb21/github-readme-stats" target="_blank"> -->
         <img src="https://github-readme-stats.vercel.app/api?username=eldirb21&show_icons=true&theme=radical" alt="GitHub Stats">
-    </a>
-     <a href="https://git.io/streak-stats" target="_blank">
+<!--     </a>
+     <a href="https://git.io/streak-stats" target="_blank"> -->
         <img src="https://streak-stats.demolab.com/?user=eldirb21&theme=radical" alt="GitHub Streak Stats">
-    </a>
+<!--     </a> -->
     <!-- <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=eldirb21&layout=compact&langs_count=8&theme=dracula"/>
     <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=eldirb21&theme=dracula"/> -->
   </a>
