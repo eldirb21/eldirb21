@@ -49,13 +49,13 @@
   <br>
    <!-- GitHub Stats -->
     <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api?username=luqmanhanung&show_icons=true&theme=radical" alt="GitHub Stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=eldirb21&show_icons=true&theme=radical" alt="GitHub Stats">
     </a>
      <a href="https://git.io/streak-stats" target="_blank">
-        <img src="https://streak-stats.demolab.com/?user=luqmanhanung&theme=radical" alt="GitHub Streak Stats">
+        <img src="https://streak-stats.demolab.com/?user=eldirb21&theme=radical" alt="GitHub Streak Stats">
     </a>
      <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luqmanhanung&layout=compact&theme=radical" alt="Top Languages">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eldirb21&layout=compact&theme=radical" alt="Top Languages">
     </a>
   <p align="center"> 
     Visitor Count<br>
