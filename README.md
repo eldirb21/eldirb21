@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://youtu.be/SmvnpF8vLfA?si=z0raafFD2PbJ1Vk9">
-    <img src="https://github.com/eldirb21/eldirb21/blob/main/panama/eldir-web.png" alt="ELDIRO">
+    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2Y4cWw3OXJ5N284eGllMDlibGlxd2Zmcmg4cTlla3NmOWc1ODM1bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NRjuf1IojpoeZfVTx7/giphy.gif" alt="ELDIRO">
   </a>
 </p>
 
@@ -51,14 +51,14 @@
 ## 📈 Statistics
 
 <p align="center">
-  <a href="https://github.com/Luqmanhanung">
-    <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Luqmanhanung&layout=compact&langs_count=8&theme=dracula"/>
-    <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=Luqmanhanung&theme=dracula"/>
+  <a href="https://github.com/eldirb21">
+    <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=eldirb21&layout=compact&langs_count=8&theme=dracula"/>
+    <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=eldirb21&theme=dracula"/>
   </a>
   <br>
   <p align="center"> 
     Visitor Count<br>
-    <img src="https://profile-counter.glitch.me/Luqmanhanung/count.svg" />
+    <img src="https://profile-counter.glitch.me/eldirb21/count.svg" />
   </p>
 </p>
 
@@ -116,16 +116,26 @@
 
 ---
 
-### 🌐 Reach Me
+### 🤝 Let's Connect
 
 <p>
-  <a href="https://www.linkedin.com/in/luqman-hanung-asidiq-681877201/" target="_blank"><img src="https://img.shields.io/badge/-linkedin-181717?style=for-the-badge&logo=linkedin"/></a>
-  <a href="mailto:luqmanhanung@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-gmail-181717?style=for-the-badge&logo=gmail"/></a>
-  <a href="https://t.me/Luqmanhanung" target="_blank"><img src="https://img.shields.io/badge/-telegram-181717?style=for-the-badge&logo=telegram"/></a>
-  <a href="https://www.instagram.com/luqmanhanung/" target="_blank"><img src="https://img.shields.io/badge/-instagram-181717?style=for-the-badge&logo=instagram"/></a>
-  <a href="https://www.tiktok.com/@anunglux" target="_blank"><img src="https://img.shields.io/badge/-tiktok-181717?style=for-the-badge&logo=tiktok"/></a>
+    <a href="https://www.linkedin.com/in/eldirb" target="_blank">
+        <img src="https://img.shields.io/badge/-linkedin-181717?style=for-the-badge&logo=linkedin"/>
+    </a>
+    <a href="mailto:eldirb95@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/-gmail-181717?style=for-the-badge&logo=gmail"/>
+    </a>
+    <a href="https://t.me/eldiro" target="_blank">
+        <img src="https://img.shields.io/badge/-telegram-181717?style=for-the-badge&logo=telegram"/>
+    </a>
+    <a href="https://www.instagram.com/eldirlb" target="_blank">
+        <img src="https://img.shields.io/badge/-instagram-181717?style=for-the-badge&logo=instagram"/>
+    </a>
+    <a href="https://www.tiktok.com/@nemesonel" target="_blank">
+        <img src="https://img.shields.io/badge/-tiktok-181717?style=for-the-badge&logo=tiktok"/>
+    </a>
 </p>
 
 <p align="center">
-  <img src="https://github.com/alansmathew/alansmathew/blob/master/projects.gif" alt="Projects">
+    <img src="https://github.com/alansmathew/alansmathew/blob/master/projects.gif" alt="Projects">
 </p>
