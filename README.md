@@ -5,11 +5,6 @@
 
 [![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
 
-<iframe width="560" height="315" 
-src="https://www.youtube.com/embed/T-D1KVIuvjA?autoplay=1" 
-title="YouTube video player" frameborder="0" 
-allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
-allowfullscreen></iframe>
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Patrick+Hand&size=30&pause=1000&color=42F742&background=FFBCB400&center=true&vCenter=true&width=435&lines=Aspiring+Frontend+Developer;Love+Coding+%26+Video+Games">
