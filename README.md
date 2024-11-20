@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://youtu.be/SmvnpF8vLfA?si=z0raafFD2PbJ1Vk9">
-    <img src="https://youtu.be/SmvnpF8vLfA?si=z0raafFD2PbJ1Vk9" alt="ELDIRO">
+    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2Y4cWw3OXJ5N284eGllMDlibGlxd2Zmcmg4cTlla3NmOWc1ODM1bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NRjuf1IojpoeZfVTx7/giphy.gif" alt="ELDIRO">
   </a>
 </p>
 
@@ -35,15 +35,6 @@
   <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/></a>
   <a href="https://www.figma.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/></a>
   <a href="https://www.canva.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="Canva" width="40" height="40"/></a>
-</p>
-
----
-
-### 🤝 Let's Connect
-
-<p align="left">
-  <a href="https://www.instagram.com/sofhia94/?hl=en" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="30" height="30"></a>
-  <a href="https://www.linkedin.com/in/rainisa-sofhia-40489b257/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" height="30"></a>
 </p>
 
 ---
