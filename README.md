@@ -32,7 +32,17 @@
 
 ### 💻 Languages and Tools
 
-<p align="left"> 
+<p align="left">
+ <a href="https://reactnative.dev" target="_blank">
+      <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" 
+          alt="RN" width="40" height="40"/>
+  <a href="https://react.dev" target="_blank">
+      <img src="https://miro.medium.com/v2/resize:fit:1400/1*x0d41ns8PTQZz4a3VbMrBg.png" 
+          alt="ReactJs" width="40" height="40"/>
+  <a href="https://nextjs.org" target="_blank">
+      <img src="https://cdn.freelogovectors.net/wp-content/uploads/2023/09/next-js-logo-freelogovectors.net_.png" 
+          alt="ReactJs" width="40" height="40"/>
+
   <a href="https://www.w3.org/html/" target="_blank">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" 
           alt="HTML5" width="40" height="40"/>
