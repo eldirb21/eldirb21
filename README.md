@@ -39,7 +39,7 @@
           alt="RN" width="40" height="40"/>
   <a href="https://react.dev" target="_blank">
       <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEid0QPsjXkWu1NbHvWugsNZVU6X1c9KmzgZwdYyQD8WRQFMBVBl6QIcHQDzEkwmTVnLhSyiRguPk2IPokk192iT_NDQE2i_2rwRgbp2tYdlhVTYNu6tWD432Ud1QX5AHawRvQMfv5hBKdoBeSlhZF4y8pzCL_FxTyj41OArDOaYyY59Xunv3DTb8SUv/s522/ReactJS.png" 
-          alt="ReactJs" width="40" height="40"/>
+          alt="ReactJs" width="60" height="40"/>
   <a href="https://nextjs.org" target="_blank">
       <img src="https://images-cdn.openxcell.com/wp-content/uploads/2024/07/24154156/dango-inner-2.webp" 
           alt="ReactJs" width="40" height="40"/>
