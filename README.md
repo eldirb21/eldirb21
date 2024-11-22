@@ -18,7 +18,13 @@
 <p align="center">
   <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" alt="Coding GIF" height="400" width="400" align="left">
   <i style="font-size: 18px; color: green; font-weight: 700;"> 
-    "Junior frontend developer enthusiast in developing user interfaces for web applications. Skilled in HTML, CSS, JavaScript, ReactJS, and TailwindCSS. Able to effectively self-manage during independent projects and collaborate as part of a productive team."
+    "I am a dedicated software developer with a profound passion for technology, backed by over 4+ years of hands-on experience in designing, developing, and deploying innovative solutions. Throughout my career, I have cultivated a diverse set of exceptional skills, including expertise in backend and full-stack development, API integration, database management, and scalable system architecture.
+
+    I have contributed to various successful projects across industries, showcasing my ability to solve complex problems, optimize performance, and deliver high-quality solutions that meet business objectives. My experience includes working with modern programming languages, frameworks, and tools such as PHP, JavaScript, Node.js, React.js, Laravel, and Spring Boot, coupled with a strong understanding of Agile methodologies and DevOps practices.
+
+    This journey has not only shaped my technical proficiency but has also instilled in me a proactive, adaptable, and resilient approach to tackling challenges in a dynamic and fast-paced environment. I thrive in collaborative settings and have a proven track record of working effectively within cross-functional teams to deliver results.
+
+    As a passionate lifelong learner, I am eager to contribute my expertise, embrace new challenges, and continue growing in the ever-evolving landscape of software development. I am particularly motivated by opportunities that allow me to leverage my innovative mindset and problem-solving skills to drive impactful results and meaningful change."
   </i>
 </p>
 
@@ -27,14 +33,38 @@
 ### 💻 Languages and Tools
 
 <p align="left"> 
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="ReactJS" width="40" height="40"/></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" width="40" height="40"/></a>
-  <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/></a>
-  <a href="https://www.figma.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/></a>
-  <a href="https://www.canva.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="Canva" width="40" height="40"/></a>
+  <a href="https://www.w3.org/html/" target="_blank">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" 
+          alt="HTML5" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" 
+          alt="CSS3" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" 
+          alt="JavaScript" width="40" height="40"/>
+  </a>
+  <a href="https://reactjs.org/" target="_blank">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" 
+          alt="ReactJS" width="40" height="40"/>
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" 
+          alt="TailwindCSS" width="40" height="40"/>
+  </a>
+  <a href="https://getbootstrap.com" target="_blank">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" 
+          alt="Bootstrap" width="40" height="40"/>
+  </a>
+  <a href="https://www.figma.com/" target="_blank">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" 
+          alt="Figma" width="40" height="40"/>
+  </a>
+  <a href="https://www.canva.com/" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" 
+          alt="Canva" width="40" height="40"/>
+  </a>
 </p>
 
 ---
