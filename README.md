@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>Hi! I'm Joker</br>
-  <br>Welcome to my space! <img src="https://media.giphy.com/media/mBSeE1Q3yxcb0XoSKh/giphy.gif" width="40"></br>
+  <br>Welcome to my space!</br>
 </h1>
 
 <p align="center">
