@@ -40,7 +40,7 @@
       <img src="https://miro.medium.com/v2/resize:fit:1400/1*x0d41ns8PTQZz4a3VbMrBg.png" 
           alt="ReactJs" width="40" height="40"/>
   <a href="https://nextjs.org" target="_blank">
-      <img src="https://cdn.freelogovectors.net/wp-content/uploads/2023/09/next-js-logo-freelogovectors.net_.png" 
+      <img src="https://global.discourse-cdn.com/auth0/optimized/2X/a/ae35edce19e64c53e5d455b22e8a2c82d093d4c9_2_556x500.png" 
           alt="ReactJs" width="40" height="40"/>
 
   <a href="https://www.w3.org/html/" target="_blank">
