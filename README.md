@@ -3,8 +3,8 @@
 > Protecting privacy requires action, and someone must take the lead.
 > If privacy is a right we all deserve, then we will be the ones to build the software that ensures it.
 
-👩🏻‍💻 Software developer 🖥️
 
+### 👩🏻‍💻 Software developer 🖥️
 
 ✈️ [My Telegram channel](https://t.me/co_eld)
 
@@ -13,6 +13,7 @@
 🐦 [@eldirbuulolo](https://x.com/eldir_b)
 
 📫 eldirb95@gmail.com
+
 
 ### 🛠 About Me
 
