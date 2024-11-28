@@ -17,12 +17,23 @@
 
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHA4MG5td2U0MWtjZ3VkZGdpZjdsdXE0MWRocWk4YTRpa2ZhbDVxbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUPGGDNsLvqsBOhuU0/giphy.gif" width="480" height="360" >
 ---
-👩🏻‍💻 Software developer 🖥️          [GIF Placeholder]
-➤  My Telegram channel               [               ]
-🌐  eldirbuulolo                      [    G I F     ]
-𝕏   @eldirbuulolo                    [ Placeholder   ]
-📩  eldirb95@gmail.com                
-
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; align-items: center;">
+  <div>
+    <h3>👩🏻‍💻 Software developer 🖥️</h3>
+    <p>➤ <a href="https://t.me/co_eld">My Telegram channel</a></p>
+    <p>🌐 <a href="https://tmind-pi.vercel.app">eldirbuulolo</a></p>
+    <p>𝕏 <a href="https://x.com/eldir_b">@eldirbuulolo</a></p>
+    <p>📩 eldirb95@gmail.com</p>
+  </div>
+  <div>
+    <img
+      src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHA4MG5td2U0MWtjZ3VkZGdpZjdsdXE0MWRocWk4YTRpa2ZhbDVxbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUPGGDNsLvqsBOhuU0/giphy.gif"
+      width="240"
+      height="180"
+      alt="GIF"
+    />
+  </div>
+</div>
 
 
 ### 🛠 About Me
