@@ -22,36 +22,48 @@
 | <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" alt="Coding GIF" width="300" height="300"> | "Stay committed to the path of coding, for every line you write is a building block of innovation and progress. Challenges may arise, and the journey may feel endless at times, but remember, every problem solved is a step closer to greatness. Push through to the very end, because the most remarkable results are achieved by those who refuse to stop halfway. Your persistence and dedication today will shape the breakthroughs of tomorrow." |
 |:----------------------------------------------------------------------------------------------------------------:|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
-
-### 📈 Statistics
+### 📊 My GitHub Stats
 
 <p align="center">
+  <!-- Row 1: GitHub Stats & Streak Stats -->
   <a href="https://github.com/eldirb21">
-<!--   <a href="https://github.com/eldirb21/github-readme-stats" target="_blank"> -->
-        <img src="https://github-readme-stats.vercel.app/api?username=eldirb21&show_icons=true&theme=radical" alt="GitHub Stats">
-<!--     </a>
-     <a href="https://git.io/streak-stats" target="_blank"> -->
-        <img src="https://streak-stats.demolab.com/?user=eldirb21&theme=radical" alt="GitHub Streak Stats">
-<!--     </a> -->
-    <!-- <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=eldirb21&layout=compact&langs_count=8&theme=dracula"/>
-    <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=eldirb21&theme=dracula"/> -->
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=eldirb21&show_icons=true&theme=radical" alt="GitHub Stats">
   </a>
-  <br>
-   <!-- GitHub Stats -->
-    <a href="https://github.com/eldirb21/github-readme-stats" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api?username=eldirb21&show_icons=true&theme=radical" alt="GitHub Stats">
-    </a>
-     <a href="https://git.io/streak-stats" target="_blank">
-        <img src="https://streak-stats.demolab.com/?user=eldirb21&theme=radical" alt="GitHub Streak Stats">
-    </a>
-     <a href="https://github.com/eldirb21/github-readme-stats" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eldirb21&layout=compact&theme=radical" alt="Top Languages">
-    </a>
-  <p align="center"> 
-    Visitor Count<br>
-    <img src="https://profile-counter.glitch.me/eldirb21/count.svg" />
-  </p>
+  <a href="https://git.io/streak-stats">
+    <img width="48%" src="https://streak-stats.demolab.com/?user=eldirb21&theme=radical" alt="GitHub Streak Stats">
+  </a>
 </p>
+
+<p align="center">
+  <!-- Row 2: Most Used Languages & Visitor Count -->
+  <a href="https://github.com/eldirb21/github-readme-stats">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eldirb21&layout=compact&theme=radical" alt="Top Languages">
+  </a>
+  <a href="#">
+    <img width="48%" src="https://profile-counter.glitch.me/eldirb21/count.svg" alt="Visitor Count">
+  </a>
+</p>
+
+<p align="center">
+  <!-- Row 3: Additional Stats (Contributions, Achievements, etc.) -->
+  <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eldirb21">
+    <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eldirb21&theme=radical" alt="Profile Summary">
+  </a>
+  <a href="https://activity-graph.herokuapp.com/graph?username=eldirb21&theme=radical">
+    <img width="48%" src="https://activity-graph.herokuapp.com/graph?username=eldirb21&theme=radical" alt="Activity Graph">
+  </a>
+</p>
+
+<p align="center">
+  <!-- Row 4: More Cards -->
+  <a href="https://github-readme-stats.vercel.app/api/wakatime?username=eldirb21">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/wakatime?username=eldirb21&theme=radical" alt="WakaTime Stats">
+  </a>
+  <a href="https://github-readme-stats.vercel.app/api/pin/?username=eldirb21&repo=github-readme-stats">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=eldirb21&repo=github-readme-stats&theme=radical" alt="Pinned Repo">
+  </a>
+</p>
+
 
 ---
 
