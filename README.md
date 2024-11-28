@@ -22,24 +22,6 @@
 | <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" alt="Coding GIF" width="300" height="300"> | "Stay committed to the path of coding, for every line you write is a building block of innovation and progress. Challenges may arise, and the journey may feel endless at times, but remember, every problem solved is a step closer to greatness. Push through to the very end, because the most remarkable results are achieved by those who refuse to stop halfway. Your persistence and dedication today will shape the breakthroughs of tomorrow." |
 |:----------------------------------------------------------------------------------------------------------------:|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
-
-### 🛠 About Me
-
-<div style="display: flex; align-items: center; justify-content: center; gap: 20px; text-align: center; height: 400px;">
-  <div style="flex: 1; display: flex; align-items: center; justify-content: center;">
-    <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" alt="Coding GIF" height="300" width="300" style="max-width: 100%; height: auto;">
-  </div>
-  <div style="flex: 1; display: flex; align-items: center; justify-content: center;">
-    <p style="font-size: 18px; color: green; font-weight: 700; margin: 0;">
-      "Stay committed to the path of coding, for every line you write is a building block of innovation and progress. Challenges may arise, and the journey may feel endless at times, but remember, every problem solved is a step closer to greatness. Push through to the very end, because the most remarkable results are achieved by those who refuse to stop halfway. Your persistence and dedication today will shape the breakthroughs of tomorrow."
-    </p>
-  </div>
-</div>
-
-
-
-<br clear="left"/>
-
 ---
 
 ### 💻 Languages and Tools
