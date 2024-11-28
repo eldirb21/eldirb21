@@ -23,56 +23,7 @@
 |:----------------------------------------------------------------------------------------------------------------:|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 
-### 💻 Languages and Tools
-
-<p align="left">
- <a href="https://reactnative.dev" target="_blank">
-      <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" 
-          alt="RN" width="40" height="40"/>
-  <a href="https://react.dev" target="_blank">
-      <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEid0QPsjXkWu1NbHvWugsNZVU6X1c9KmzgZwdYyQD8WRQFMBVBl6QIcHQDzEkwmTVnLhSyiRguPk2IPokk192iT_NDQE2i_2rwRgbp2tYdlhVTYNu6tWD432Ud1QX5AHawRvQMfv5hBKdoBeSlhZF4y8pzCL_FxTyj41OArDOaYyY59Xunv3DTb8SUv/s522/ReactJS.png" 
-          alt="ReactJs" width="60" height="40"/>
-  <a href="https://nextjs.org" target="_blank">
-      <img src="https://images-cdn.openxcell.com/wp-content/uploads/2024/07/24154156/dango-inner-2.webp" 
-          alt="ReactJs" width="40" height="40"/>
-
-  <a href="https://www.w3.org/html/" target="_blank">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" 
-          alt="HTML5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" 
-          alt="CSS3" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" 
-          alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" 
-          alt="ReactJS" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" 
-          alt="TailwindCSS" width="40" height="40"/>
-  </a>
-  <a href="https://getbootstrap.com" target="_blank">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" 
-          alt="Bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" 
-          alt="Figma" width="40" height="40"/>
-  </a>
-  <a href="https://www.canva.com/" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" 
-          alt="Canva" width="40" height="40"/>
-  </a>
-</p>
-
----
-
-## 📈 Statistics
+### 📈 Statistics
 
 <p align="center">
   <a href="https://github.com/eldirb21">
