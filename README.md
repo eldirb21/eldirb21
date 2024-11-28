@@ -7,13 +7,13 @@
 
 ### 👩🏻‍💻 Software developer 🖥️
 
-✈️ [My Telegram channel](https://t.me/co_eld)
+➤ [My Telegram channel](https://t.me/co_eld)
 
-✒️ [eldirbuulolo](https://tmind-pi.vercel.app)
+</> [eldirbuulolo](https://tmind-pi.vercel.app)
 
-🐦 [@eldirbuulolo](https://x.com/eldir_b)
+𝕏 [@eldirbuulolo](https://x.com/eldir_b)
 
-📫 eldirb95@gmail.com
+📩 eldirb95@gmail.com
 
 ---
 
