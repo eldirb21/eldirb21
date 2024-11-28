@@ -30,7 +30,7 @@
     <img width="48%" height="200" src="https://github-readme-stats.vercel.app/api?username=eldirb21&show_icons=true&theme=radical" alt="GitHub Stats">
   </a>
   <a href="https://git.io/streak-stats">
-    <img width="48%" height="200" src="https://streak-stats.demolab.com/?user=eldirb21&theme=radical" alt="GitHub Streak Stats">
+    <img width="48%" height="250" src="https://streak-stats.demolab.com/?user=eldirb21&theme=radical" alt="GitHub Streak Stats">
   </a>
 </p>
 
