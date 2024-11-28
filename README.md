@@ -36,27 +36,16 @@
 
 <p align="center">
   <!-- Row 2: Additional Stats (Contributions, Achievements, etc.) -->
-  <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eldirb21">
-    <img width="30%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eldirb21&theme=radical" alt="Profile Summary">
-  </a>
- <a href="#">
-    <img width="30%" src="https://profile-counter.glitch.me/eldirb21/count.svg" alt="Visitor Count">
-  </a>
    <a href="https://github.com/eldirb21/github-readme-stats">
-    <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eldirb21&layout=compact&theme=radical" alt="Top Languages">
+    <img width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eldirb21&layout=compact&theme=radical" alt="Top Languages">
+  </a>
+  <a href="#">
+    <img width="33%" src="https://profile-counter.glitch.me/eldirb21/count.svg" alt="Visitor Count">
+  </a>
+   <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eldirb21">
+    <img width="34%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eldirb21&theme=radical" alt="Profile Summary">
   </a>
 </p>
-
-<p align="center">
-  <!-- Full Width: Most Used Languages with Adjusted Height -->
-  <a href="https://github.com/eldirb21/github-readme-stats">
-    <img width="100%" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eldirb21&layout=compact&theme=radical" alt="Top Languages">
-  </a>
-</p>
-
-
- 
-
 
 ---
 
