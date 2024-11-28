@@ -18,6 +18,23 @@
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHA4MG5td2U0MWtjZ3VkZGdpZjdsdXE0MWRocWk4YTRpa2ZhbDVxbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUPGGDNsLvqsBOhuU0/giphy.gif" width="480" height="360" >
 ---
 
+<div style="display: flex; align-items: center; gap: 20px;">
+  <div>
+    <h3>👩🏻‍💻 Software developer 🖥️</h3>
+    <p>➤ <a href="https://t.me/co_eld">My Telegram channel</a></p>
+    <p>🌐 <a href="https://tmind-pi.vercel.app">eldirbuulolo</a></p>
+    <p>𝕏 <a href="https://x.com/eldir_b">@eldirbuulolo</a></p>
+    <p>📩 eldirb95@gmail.com</p>
+  </div>
+  <img
+    src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHA4MG5td2U0MWtjZ3VkZGdpZjdsdXE0MWRocWk4YTRpa2ZhbDVxbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUPGGDNsLvqsBOhuU0/giphy.gif"
+    width="240"
+    height="180"
+    alt="GIF"
+  />
+</div>
+
+
 ### 🛠 About Me
 
 | <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" alt="Coding GIF" width="300" height="300"> | "Stay committed to the path of coding, for every line you write is a building block of innovation and progress. Challenges may arise, and the journey may feel endless at times, but remember, every problem solved is a step closer to greatness. Push through to the very end, because the most remarkable results are achieved by those who refuse to stop halfway. Your persistence and dedication today will shape the breakthroughs of tomorrow." |
