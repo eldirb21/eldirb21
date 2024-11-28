@@ -14,17 +14,6 @@
 
 📫 eldirb95@gmail.com
 
-
-<p align="center">
-  <a href="https://youtu.be/SmvnpF8vLfA?si=z0raafFD2PbJ1Vk9">
-    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2Y4cWw3OXJ5N284eGllMDlibGlxd2Zmcmg4cTlla3NmOWc1ODM1bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NRjuf1IojpoeZfVTx7/giphy.gif" alt="ELDIRO">
-  </a>
-</p>
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Patrick+Hand&size=30&pause=1000&color=42F742&background=FFBCB400&center=true&vCenter=true&width=435&lines=Aspiring+Frontend+Developer;Love+Coding+%26+Video+Games">
-</h1>
-
 ### 🛠 About Me
 
 <p align="center">
