@@ -101,26 +101,4 @@
 
 ---
 
-### 🤝 Let's Connect
-
-<p>
-    <a href="https://www.linkedin.com/in/eldirb" target="_blank">
-        <img src="https://img.shields.io/badge/-linkedin-181717?style=for-the-badge&logo=linkedin"/>
-    </a>
-    <a href="mailto:eldirb95@gmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/-gmail-181717?style=for-the-badge&logo=gmail"/>
-    </a>
-    <a href="https://t.me/eldiro" target="_blank">
-        <img src="https://img.shields.io/badge/-telegram-181717?style=for-the-badge&logo=telegram"/>
-    </a>
-    <a href="https://www.instagram.com/eldirlb" target="_blank">
-        <img src="https://img.shields.io/badge/-instagram-181717?style=for-the-badge&logo=instagram"/>
-    </a>
-    <a href="https://www.tiktok.com/@nemesonel" target="_blank">
-        <img src="https://img.shields.io/badge/-tiktok-181717?style=for-the-badge&logo=tiktok"/>
-    </a>
-</p>
-
-<p align="center">
-    <img src="https://github.com/alansmathew/alansmathew/blob/master/projects.gif" alt="Projects">
-</p>
+<p align="center"> <i>"Coding is not just a profession, it's an art of problem-solving."</i> <br> <b>- Keep Learning, Keep Growing -</b> </p>
