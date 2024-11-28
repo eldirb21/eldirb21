@@ -16,6 +16,11 @@
 📩  eldirb95@gmail.com
 
 ---
+### 🛠 About Me
+
+| ![Coding GIF](https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif) | "Stay committed to the path of coding, for every line you write is a building block of innovation and progress. Challenges may arise, and the journey may feel endless at times, but remember, every problem solved is a step closer to greatness. Push through to the very end, because the most remarkable results are achieved by those who refuse to stop halfway. Your persistence and dedication today will shape the breakthroughs of tomorrow." |
+|:-------------------------------------------------------------------------:|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
 
 ### 🛠 About Me
 
