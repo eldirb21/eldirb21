@@ -3,12 +3,7 @@
 > Protecting privacy requires action, and someone must take the lead.
 > If privacy is a right we all deserve, then we will be the ones to build the software that ensures it.
 
-
-
-<h1 align="center">
-  <br>Hi! I'm Joker</br>
-  <br>Welcome to my space!</br>
-</h1>
+👩🏻‍💻 Software developer 🖥️
 
 <p align="center">
   <a href="https://youtu.be/SmvnpF8vLfA?si=z0raafFD2PbJ1Vk9">
