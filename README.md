@@ -60,7 +60,7 @@
     <img width="48%" src="https://github-readme-stats.vercel.app/api/wakatime?username=eldirb21&theme=radical" alt="WakaTime Stats">
   </a>
   <a href="https://github-readme-stats.vercel.app/api/pin/?username=eldirb21&repo=github-readme-stats">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=eldirb21&repo=github-readme-stats&theme=radical" alt="Pinned Repo">
+    <img width="48%" src="https://tmind-pi.vercel.app/api/pin/?username=eldirb21&repo=github-readme-stats&theme=radical" alt="Pinned Repo">
   </a>
 </p>
 
