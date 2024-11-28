@@ -22,14 +22,7 @@
 <p align="center">
   <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" alt="Coding GIF" height="400" width="400" align="left">
   <i style="font-size: 18px; color: green; font-weight: 700;"> 
-    "I am a dedicated software developer with a profound passion for technology, backed by over 4+ years of hands-on experience in designing, developing, and deploying innovative solutions. Throughout my career, I have cultivated a diverse set of exceptional skills, including expertise in backend and full-stack development, API integration, database management, and scalable system architecture.
-
-    I have contributed to various successful projects across industries, showcasing my ability to solve complex problems, optimize performance, and deliver high-quality solutions that meet business objectives. My experience includes working with modern programming languages, frameworks, and tools such as PHP, JavaScript, Node.js, React.js, Laravel, and Spring Boot, coupled with a strong understanding of Agile methodologies and DevOps practices.
-
-    This journey has not only shaped my technical proficiency but has also instilled in me a proactive, adaptable, and resilient approach to tackling challenges in a dynamic and fast-paced environment. I thrive in collaborative settings and have a proven track record of working effectively within cross-functional teams to deliver results.
-
-    As a passionate lifelong learner, I am eager to contribute my expertise, embrace new challenges, and continue growing in the ever-evolving landscape of software development. I am particularly motivated by opportunities that allow me to leverage my innovative mindset and problem-solving skills to drive impactful results and meaningful change."
-
+    "Stay committed to the path of coding, for every line you write is a building block of innovation and progress. Challenges may arise, and the journey may feel endless at times, but remember, every problem solved is a step closer to greatness. Push through to the very end, because the most remarkable results are achieved by those who refuse to stop halfway. Your persistence and dedication today will shape the breakthroughs of tomorrow."
   </i>
 </p>
 
