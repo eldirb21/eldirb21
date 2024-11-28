@@ -7,20 +7,20 @@
 
 ### 👩🏻‍💻 Software developer 🖥️
 
-➤  [My Telegram channel](https://t.me/co_eld)
+➤ [My Telegram channel](https://t.me/co_eld)
 
-🌐  [eldirbuulolo](https://tmind-pi.vercel.app)
+🌐 [eldirbuulolo](https://tmind-pi.vercel.app)
 
-𝕏   [@eldirbuulolo](https://x.com/eldir_b)
+𝕏 [@eldirbuulolo](https://x.com/eldir_b)
 
-📩  eldirb95@gmail.com
- 
+📩 eldirb95@gmail.com
+
 ---
 
 ### 🛠 About Me
 
 | <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" alt="Coding GIF" width="300" height="300"> | "Stay committed to the path of coding, for every line you write is a building block of innovation and progress. Challenges may arise, and the journey may feel endless at times, but remember, every problem solved is a step closer to greatness. Push through to the very end, because the most remarkable results are achieved by those who refuse to stop halfway. Your persistence and dedication today will shape the breakthroughs of tomorrow." |
-|:----------------------------------------------------------------------------------------------------------------:|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| :--------------------------------------------------------------------------------------------------------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 ### 📊 My GitHub Stats
 
