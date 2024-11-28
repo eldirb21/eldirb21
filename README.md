@@ -18,8 +18,8 @@
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHA4MG5td2U0MWtjZ3VkZGdpZjdsdXE0MWRocWk4YTRpa2ZhbDVxbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUPGGDNsLvqsBOhuU0/giphy.gif" width="480" height="360" />
 ---
 
-| ### 👩🏻‍💻 Software developer 🖥️  
-➤ [My Telegram channel](https://t.me/co_eld)  
+### 👩🏻‍💻 Software developer 🖥️  
+| ➤ [My Telegram channel](https://t.me/co_eld)  
 🌐 [eldirbuulolo](https://tmind-pi.vercel.app)  
 𝕏 [@eldirbuulolo](https://x.com/eldir_b)  
 📩 eldirb95@gmail.com  | <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHA4MG5td2U0MWtjZ3VkZGdpZjdsdXE0MWRocWk4YTRpa2ZhbDVxbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUPGGDNsLvqsBOhuU0/giphy.gif" alt="Coding GIF" width="300" height="300"/> |
