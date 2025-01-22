@@ -10,6 +10,26 @@
 | ➤ [My Telegram channel](https://t.me/co_eld) | 🌐 [eldirbuulolo](https://tmind-pi.vercel.app) |
 | 𝕏 [@eldirbuulolo](https://x.com/eldir_b)     | 📩 eldirb95@gmail.com                          |
 
+### 👩🏻‍💻 Software developer 🖥️
+
+<div style="display: flex; justify-content: space-between;">
+
+<div style="width: 48%;">
+
+➤ [My Telegram channel](https://t.me/co_eld)  
+𝕏 [@eldirbuulolo](https://x.com/eldir_b)
+
+</div>
+
+<div style="width: 48%;">
+
+🌐 [eldirbuulolo](https://tmind-pi.vercel.app)  
+📩 eldirb95@gmail.com
+
+</div>
+
+</div>
+
 ### 🛠 Motto
 
 | "Stay committed to the path of coding, for every line you write is a building block of innovation and progress. Challenges may arise, and the journey may feel endless at times, but remember, every problem solved is a step closer to greatness. Push through to the very end, because the most remarkable results are achieved by those who refuse to stop halfway. Your persistence and dedication today will shape the breakthroughs of tomorrow." |
