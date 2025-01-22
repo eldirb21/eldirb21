@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/eldirb21.png" alt="Profile Picture" style="border-radius: 50%; width: 150px; height: 150px;"/>
+  <img src="https://github.com/eldirb21.png" alt="Profile Picture" style="border-radius: 50%; width: 150px; height: 150px; border: 2px solid #ccc;"/>
 </p>
 
 ### 👋 Hi there!
