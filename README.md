@@ -76,6 +76,7 @@ Hi, I'm **Eldir**, a passionate **Software Developer** dedicated to crafting inn
 </details>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eldirb21)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=eldirb21)](https://github.com/eldirb21/github-readme-stats)
 
 ---
 
