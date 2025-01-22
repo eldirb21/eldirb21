@@ -1,9 +1,11 @@
 <p align="center">
   <img src="https://github.com/eldirb21.png" alt="Profile Picture" style="border-radius: 50%; width: 150px; height: 150px; border: 2px solid #ccc;"/>
+  <img src="https://shields.io/badge/👨‍💻-Eldir-blue?style=for-the-badge&logo=github&logoColor=white" alt="Eldir's Avatar" style="border-radius: 50%; width: 150px; border: 2px solid #ccc;"/>
+
 </p>
 
 <p align="center">
-  <img src="https://shields.io/badge/👨‍💻-Eldir-blue?style=for-the-badge&logo=github&logoColor=white" alt="Eldir's Avatar"/>
+  <img src="https://shields.io/badge/👨‍💻-Eldir-blue?style=for-the-badge&logo=github&logoColor=white" alt="Eldir's Avatar" style="border-radius: 50%; width: 150px; border: 2px solid #ccc;"/>
   <!-- Add your additional content here -->
 </p>
 
