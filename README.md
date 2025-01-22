@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
+</p>
+
 <p align="center" style="margin: 0; padding: 0; font-size: 0;">
   <img src="https://github.com/eldirb21.png" alt="Profile Picture" style="border-radius: 50%; width: 150px; height: 150px; border: 2px solid #ccc; display: block;"/>
 </p>
