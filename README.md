@@ -3,32 +3,13 @@
 > Protecting privacy requires action, and someone must take the lead.
 > If privacy is a right we all deserve, then we will be the ones to build the software that ensures it.
 
-### 👩🏻‍💻 Software developer 🖥️
+### 👩🏻‍💻 Software Developer 🖥️
 
-| **Informasi**                                | **Detail**                                     |
-| -------------------------------------------- | ---------------------------------------------- |
-| ➤ [My Telegram channel](https://t.me/co_eld) | 🌐 [eldirbuulolo](https://tmind-pi.vercel.app) |
-| 𝕏 [@eldirbuulolo](https://x.com/eldir_b)     | 📩 eldirb95@gmail.com                          |
-
-### 👩🏻‍💻 Software developer 🖥️
-
-<div style="display: flex; justify-content: space-between;">
-
-<div style="width: 48%;">
-
-➤ [My Telegram channel](https://t.me/co_eld)  
-𝕏 [@eldirbuulolo](https://x.com/eldir_b)
-
-</div>
-
-<div style="width: 48%;">
-
-🌐 [eldirbuulolo](https://tmind-pi.vercel.app)  
-📩 eldirb95@gmail.com
-
-</div>
-
-</div>
+| 🚀 Connect with Me                                   | 📬 Reach Out                                         |
+| ---------------------------------------------------- | ---------------------------------------------------- |
+| ➤ [Explore my Telegram Channel](https://t.me/co_eld) | 🌐 [Visit My Portfolio](https://tmind-pi.vercel.app) |
+| 𝕏 [Follow me on X](https://x.com/eldir_b)            | 📩 eldirb95@gmail.com                                |
+| 💡 Sharing tech insights and updates                 | ✉️ Open to collaborations and opportunities          |
 
 ### 🛠 Motto
 
