@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://via.placeholder.com/150" alt="Profile Picture" style="border-radius: 50%;"/>
+  <img src="https://github.com/eldirb21.png" alt="Profile Picture" style="border-radius: 50%; width: 150px; height: 150px;"/>
 </p>
 
 ### 👋 Hi there!
