@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://via.placeholder.com/150" alt="Profile Picture" style="border-radius: 50%;"/>
+</p>
+
 ### 👋 Hi there!
 
 > "Protecting privacy requires action, and someone must take the lead.  
