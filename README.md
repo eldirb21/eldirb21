@@ -66,10 +66,6 @@ Hi, I'm **Eldir**, a passionate **Software Developer** dedicated to crafting inn
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>   
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
-
 ### 📊 Github Stats
 
 <details>
@@ -85,4 +81,8 @@ Hi, I'm **Eldir**, a passionate **Software Developer** dedicated to crafting inn
 <p align="center">
   <i>"Coding is not just a profession; it's an art of problem-solving."</i>  
   <br><b>- Keep Learning, Keep Growing -</b> 🌱
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
