@@ -77,8 +77,6 @@ Hi, I'm **Eldir**, a passionate **Software Developer** dedicated to crafting inn
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eldirb21)
 
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=eldirb21&repo=eldir-b21&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
-
 ---
 
 <p align="center">
