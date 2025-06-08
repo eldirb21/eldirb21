@@ -45,23 +45,23 @@ Hi, I'm **Eldir**, a passionate **Software Developer** dedicated to crafting inn
   <tr>
     <td><strong>📱 Mobile</strong></td>
     <td>
-      <img src="panama/icons/react-native.png" alt="React Native" width="45" height="45" style="border-radius: 50%; margin-right: 8px;" />
+      <img src="panama/icons/react-native.png" alt="React Native" width="40" height="40" hspace="4"/>
     </td>
   </tr>
   <tr>
     <td><strong>🌐 Web</strong></td>
     <td>
-      <img src="panama/icons/nextjs.png" alt="Next.js" width="45" height="45" class="image-style rounded bordered" />
-      <img src="panama/icons/react.png" alt="React" width="45" height="45" class="image-style rounded bordered" />
-      <img src="panama/icons/vuejs.png" alt="Vue.js" width="45" height="45" class="image-style rounded bordered" />
+      <img src="panama/icons/react.png" alt="React" width="40" height="40" hspace="4" />
+      <img src="panama/icons/nextjs.png" alt="Next.js" width="40" height="40" hspace="4" />
+      <img src="panama/icons/vuejs.png" alt="Vue.js" width="40" height="40" hspace="4" />
     </td>
   </tr>
   <tr>
     <td><strong>🛠️ Backend</strong></td>
     <td>
-      <img src="panama/icons/express.png" alt="Expressjs" width="50" height="50" hspace="8"/>
-      <img src="panama/icons/nodejs.png" alt="Nodejs" width="50" height="50" hspace="8"/>
-      <img src="panama/icons/js.png" alt="JavaScript" width="50" height="50" hspace="8"/>
+      <img src="panama/icons/express.png" alt="Expressjs" width="40" height="40" hspace="4"/>
+      <img src="panama/icons/nodejs.png" alt="Nodejs" width="40" height="40" hspace="4"/>
+      <img src="panama/icons/js.png" alt="JavaScript" width="40" height="40" hspace="4"/>
     </td>
   </tr>
   <tr>
