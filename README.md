@@ -41,6 +41,10 @@ Hi, I'm **Eldir**, a passionate **Software Developer** dedicated to crafting inn
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
+<a href="https://reactnative.dev/" target="_blank">
+  <img src="panama/icons/react-native.png" alt="React Native" width="45" height="45" style="border-radius: 50%;" />
+</a>
+
 <img src="panama/icons/react-native.png" alt="react" width="45" height="45" style="border-radius: 50%;" />
 <img src="panama/icons/react.png" alt="react" width="45" height="45" style="border-radius: 50%;" />
 <img src="panama/icons/nextjs.png" alt="react" width="45" height="45" style="border-radius: 50%;" />
