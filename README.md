@@ -39,39 +39,42 @@ Hi, I'm **Eldir**, a passionate **Software Developer** dedicated to crafting inn
 
 ---
 
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
-<p align="left">
-<a href="https://reactnative.dev/" target="_blank">
-  <img src="panama/icons/react-native.png" alt="React Native" width="45" height="45" style="border-radius: 50%;" />
-</a>
+<h2 align="center">🚀 &nbsp;Tech Stack & Tools I've Used</h2>
 
-<img src="panama/icons/react-native.png" alt="react" width="45" height="45" style="border-radius: 50%;" />
-<img src="panama/icons/react.png" alt="react" width="45" height="45" style="border-radius: 50%;" />
-<img src="panama/icons/nextjs.png" alt="react" width="45" height="45" style="border-radius: 50%;" />
-<img src="panama/icons/vuejs.png" alt="react" width="45" height="45" style="border-radius: 50%;" />
-<img src="panama/icons/express.png" alt="react" width="45" height="45" style="border-radius: 50%;" />
+<table align="center">
+  <tr>
+    <td><strong>📱 Mobile</strong></td>
+    <td>
+      <a href="https://reactnative.dev/" target="_blank">
+        <img src="panama/icons/react-native.png" alt="React Native" width="45" height="45" style="border-radius: 50%;" />
+      </a>
+    </td>
+  </tr>
 
-  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="cLang" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" alt="VueJS" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" width="45" height="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="45" height="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="flutter" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>       
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>    -->
-</p>
+  <tr>
+    <td><strong>🌐 Web</strong></td>
+    <td>
+      <img src="panama/icons/react.png" alt="React" width="45" height="45" style="border-radius: 50%; margin-right: 8px;" />
+      <img src="panama/icons/nextjs.png" alt="Next.js" width="45" height="45" style="border-radius: 50%; margin-right: 8px;" />
+      <img src="panama/icons/vuejs.png" alt="Vue.js" width="45" height="45" style="border-radius: 50%;" />
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>🛠 Backend</strong></td>
+    <td>
+      <img src="panama/icons/express.png" alt="Express" width="45" height="45" style="border-radius: 50%;" />
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>💾 Database</strong></td>
+    <td>
+      <img src="panama/icons/mysql.png" alt="MySQL" width="45" height="45" style="border-radius: 50%; margin-right: 8px;" />
+      <img src="panama/icons/mongodb.png" alt="MongoDB" width="45" height="45" style="border-radius: 50%;" />
+    </td>
+  </tr>
+</table>
 
 <br>
 
