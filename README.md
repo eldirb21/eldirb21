@@ -39,66 +39,14 @@ Hi, I'm **Eldir**, a passionate **Software Developer** dedicated to crafting inn
 
 ---
 
-<h2 align="center">🚀 &nbsp;Tech Stack & Tools I've Used</h2>
-
-<table width="100%">
-  <tr>
-    <td><strong>📱 Mobile</strong></td>
-    <td>
-      <img src="panama/icons/react-native.png" alt="React Native" width="40" height="40" hspace="4"/>
-      <img src="panama/icons/flutter.png" alt="React Native" width="40" height="40" hspace="4"/>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>🌐 Web</strong></td>
-    <td>
-      <img src="panama/icons/react.png" alt="React" width="40" height="40" hspace="4" />
-      <img src="panama/icons/nextjs.png" alt="Next.js" width="40" height="40" hspace="4" />
-      <img src="panama/icons/vuejs.png" alt="Vue.js" width="40" height="40" hspace="4" />
-    </td>
-  </tr>
-  <tr>
-    <td><strong>🛠️ Backend</strong></td>
-    <td>
-      <img src="panama/icons/express.png" alt="Expressjs" width="40" height="40" hspace="4"/>
-      <img src="panama/icons/nodejs.png" alt="Nodejs" width="40" height="40" hspace="4"/>
-      <img src="panama/icons/js.png" alt="JavaScript" width="40" height="40" hspace="4"/>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>💾 Database</strong></td>
-    <td>
-      <img src="panama/icons/mysql.png" alt="MySQL" width="40" height="40" hspace="4"/>
-      <img src="panama/icons/mongodb.png" alt="MongoDB" width="40" height="40" hspace="4"/>
-    </td>
-  </tr>
-   <tr>
-    <td><strong>Other</strong></td>
-    <td>
-      <img src="panama/icons/redux.png" alt="Figma" width="40" height="40" hspace="4"/>
-      <img src="panama/icons/mobx.png" alt="Figma" width="40" height="40" hspace="4"/>
-      <img src="panama/icons/figma.png" alt="Figma" width="40" height="40" hspace="4"/>
-      <img src="panama/icons/firebase.png" alt="firebase" width="40" height="40" hspace="4"/>
-      <img src="panama/icons/onesignal.png" alt="onesignal" width="40" height="40" hspace="4"/>
-      <img src="panama/icons/postman.png" alt="postman" width="40" height="40" hspace="4"/>
-      <img src="panama/icons/git.png" alt="git" width="40" height="40" hspace="4"/>
-      <img src="panama/icons/github.png" alt="github" width="40" height="40" hspace="4"/>
-      <img src="panama/icons/jira.png" alt="jira" width="40" height="40" hspace="4"/>
-      <img src="panama/icons/clickup.png" alt="clickup" width="40" height="40" hspace="4"/>
-      <img src="panama/icons/trello.png" alt="trello" width="40" height="40" hspace="4"/>
-      <img src="panama/icons/asana.png" alt="asana" width="40" height="40" hspace="4"/>
-    </td>
-  </tr>
-</table>
-
 ## Technology Stack
 
-| Category        | Technologies/Tools                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-| --------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **📱 Mobile**   | [![React Native](https://img.shields.io/badge/React_Native-61DAFB?logo=react&logoColor=white)](https://reactnative.dev/) [![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)](https://flutter.dev/)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-| **🌐 Web**      | [![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white)](https://react.dev/) [![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)](https://nextjs.org/) [![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white)](https://vuejs.org/)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-| **🛠️ Backend**  | [![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)](https://expressjs.com/) [![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)](https://nodejs.org/) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| **💾 Database** | [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)](https://www.mysql.com/) [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)](https://www.mongodb.com/)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| Category        | Technologies/Tools                                                                 |
+|-----------------|-----------------------------------------------------------------------------------|
+| **📱 Mobile**   | [![React Native](https://img.shields.io/badge/React_Native-61DAFB?logo=react&logoColor=white)](https://reactnative.dev/) [![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)](https://flutter.dev/) |
+| **🌐 Web**      | [![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white)](https://react.dev/) [![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)](https://nextjs.org/) [![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white)](https://vuejs.org/) |
+| **🛠️ Backend**  | [![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)](https://expressjs.com/) [![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)](https://nodejs.org/) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) |
+| **💾 Database** | [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)](https://www.mysql.com/) [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)](https://www.mongodb.com/) |
 | **🧩 Other**    | [![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white)](https://redux.js.org/) [![MobX](https://img.shields.io/badge/MobX-FF9955?logo=mobx&logoColor=white)](https://mobx.js.org/) [![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](https://www.figma.com/) [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)](https://firebase.google.com/) [![OneSignal](https://img.shields.io/badge/OneSignal-FF0000?logo=onesignal&logoColor=white)](https://onesignal.com/) [![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)](https://www.postman.com/) [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)](https://git-scm.com/) [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/) [![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)](https://www.atlassian.com/software/jira) [![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?logo=clickup&logoColor=white)](https://clickup.com/) [![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=white)](https://trello.com/) [![Asana](https://img.shields.io/badge/Asana-FB5A5A?logo=asana&logoColor=white)](https://asana.com/) |
 
 <br>
@@ -128,6 +76,6 @@ Hi, I'm **Eldir**, a passionate **Software Developer** dedicated to crafting inn
 </p>
 
 .. image:: panama/icons/mysql.png
-:height: 100px
-:width: 200 px
-:scale: 50 %
+   :height: 100px
+   :width: 200 px
+   :scale: 50 %
