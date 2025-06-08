@@ -77,8 +77,8 @@ Hi, I'm **Eldir**, a passionate **Software Developer** dedicated to crafting inn
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eldirb21)
 ![Eldirb21's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eldirb21&show_icons=true&theme=default)
-![Public Repositories](https://img.shields.io/github/repos?username=eldirb21)
-![GitHub User's Public Repos](https://img.shields.io/badge/Public_Repos-$(curl -s https://api.github.com/users/eldirb21 | jq '.public_repos')-blue)
+![Repos Badge](https://img.shields.io/badge/public%20repos-12-blue)
+[![trophy](https://github-profile-trophy.vercel.app/?username=eldirb21)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ---
