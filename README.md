@@ -53,7 +53,7 @@ Hi, I'm **Eldir**, a passionate **Software Developer** dedicated to crafting inn
     <td><strong>🌐 Web</strong></td>
     <td>
       <img src="panama/icons/react.png" alt="React" width="45" height="45" style="border-radius: 100px; margin-right: 8px;" />
-      <img src="panama/icons/nextjs.png" alt="Next.js" width="45" height="45" style="border-radius: 100px; margin-right: 8px;" />
+      <img src="panama/icons/nextjs.png" alt="Next.js" width="45" height="45" style="border-radius: 100px; margin: 8px;" hspace="8" />
       <img src="panama/icons/vuejs.png" alt="Vue.js" width="45" height="45" style="border-radius: 100px;" />
     </td>
   </tr>
