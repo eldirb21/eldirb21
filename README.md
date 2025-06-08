@@ -64,9 +64,11 @@ Hi, I'm **Eldir**, a passionate **Software Developer** dedicated to crafting inn
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>   
 </p>
 
+<br>
+
 ### 📊 Github Stats
 
-<summary><b>✨ See My Performance</b></summary>
+#### ✨ See My Performance
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eldirb21&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8)
 ![Eldirb21's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eldirb21&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true)
