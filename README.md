@@ -41,16 +41,14 @@ Hi, I'm **Eldir**, a passionate **Software Developer** dedicated to crafting inn
 
 <h2 align="center">🚀 &nbsp;Tech Stack & Tools I've Used</h2>
 
-<table align="center">
+
+<table width="100%">
   <tr>
     <td><strong>📱 Mobile</strong></td>
     <td>
-      <a href="https://reactnative.dev/" target="_blank">
-        <img src="panama/icons/react-native.png" alt="React Native" width="45" height="45" style="border-radius: 50%;" />
-      </a>
+      <img src="panama/icons/react-native.png" alt="React Native" width="45" height="45" style="border-radius: 50%; margin-right: 8px;" />
     </td>
   </tr>
-
   <tr>
     <td><strong>🌐 Web</strong></td>
     <td>
@@ -59,14 +57,12 @@ Hi, I'm **Eldir**, a passionate **Software Developer** dedicated to crafting inn
       <img src="panama/icons/vuejs.png" alt="Vue.js" width="45" height="45" style="border-radius: 50%;" />
     </td>
   </tr>
-
   <tr>
-    <td><strong>🛠 Backend</strong></td>
+    <td><strong>🛠️ Backend</strong></td>
     <td>
       <img src="panama/icons/express.png" alt="Express" width="45" height="45" style="border-radius: 50%;" />
     </td>
   </tr>
-
   <tr>
     <td><strong>💾 Database</strong></td>
     <td>
