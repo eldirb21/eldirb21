@@ -25,11 +25,11 @@ Hi, I'm **Eldir**, a passionate **Software Developer** dedicated to crafting inn
 
 ### 💬 Let's Connect!
 
-| 🌐 Platforms                               | 📬 Reach Out                                   |
-| ------------------------------------------ | ---------------------------------------------- |
-| 💬 [Telegram](https://t.me/co_eld)         | 🌐 [Website](https://eldirwe.vercel.app) |
-| 🐦 [Follow on X](https://x.com/eldir_b)    | ✉️ [Email](mailto:eldir.dev.io@gmail.com)                         |
-| 💡 Sharing Tech Insights                   | 🤝 Open to Collaborations & Opportunities      |
+| 🌐 Platforms                            | 📬 Reach Out                              |
+| --------------------------------------- | ----------------------------------------- |
+| 💬 [Telegram](https://t.me/co_eld)      | 🌐 [Website](https://eldirwe.vercel.app)  |
+| 🐦 [Follow on X](https://x.com/eldir_b) | ✉️ [Email](mailto:eldir.dev.io@gmail.com) |
+| 💡 Sharing Tech Insights                | 🤝 Open to Collaborations & Opportunities |
 
 ---
 
@@ -41,7 +41,7 @@ Hi, I'm **Eldir**, a passionate **Software Developer** dedicated to crafting inn
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
-  <img src="panama/icons/react-native.png" alt="react" width="45" height="45" />
+<img src="panama/icons/react-native.png" alt="react" width="45" height="45" style="border-radius: 50%;" />
   <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="cLang" width="45" height="45"/>
@@ -78,7 +78,6 @@ Hi, I'm **Eldir**, a passionate **Software Developer** dedicated to crafting inn
 
 ![Repos Badge](https://img.shields.io/badge/public%20repos-12-blue)
 [![trophy](https://github-profile-trophy.vercel.app/?username=eldirb21)](https://github.com/ryo-ma/github-profile-trophy)
-
 
 ---
 
