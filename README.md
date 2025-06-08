@@ -55,25 +55,6 @@ Hi, I'm **Eldir**, a passionate **Software Developer** dedicated to crafting inn
 
 ### ✨ My Performance
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eldirb21&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eldirb21&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="Eldirb21's GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Public%20Repos-12-blue" alt="Public Repos" />
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=eldirb21" alt="GitHub Trophies" />
-  </a>
-</div>
-
-### 📊 Github Stats
-
-#### ✨ See My Performance
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eldirb21&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8)
 ![Eldirb21's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eldirb21&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true)
 
