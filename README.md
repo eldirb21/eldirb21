@@ -67,8 +67,8 @@ Hi, I'm **Eldir**, a passionate **Software Developer** dedicated to crafting inn
   <tr>
     <td><strong>💾 Database</strong></td>
     <td>
-      <img src="panama/icons/mysql.png" alt="MySQL" width="45" height="45" style="border-radius: 50%; margin-right: 8px;" />
-      <img src="panama/icons/mongodb.png" alt="MongoDB" width="45" height="45" style="border-radius: 50%;" />
+      <img src="panama/icons/mysql.png" alt="MySQL" width="40" height="40" hspace="4"/>
+      <img src="panama/icons/mongodb.png" alt="MongoDB" width="40" height="40" hspace="4"/>
     </td>
   </tr>
 </table>
