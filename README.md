@@ -59,6 +59,10 @@ Hi, I'm **Eldir**, a passionate **Software Developer** dedicated to crafting inn
 
 ![GitHub Stats](https://eld-readme-stats.vercel.app/api?username=eldirb21&show_icons=true&include_all_commits=true&count_private=true)
 
+![Top Langs](https://eld-readme-stats-eldirb21s-projects.vercel.app/api/top-langs/?username=eldirb21&layout=compact&langs_count=8)
+
+![GitHub Stats](https://eld-readme-stats-eldirb21s-projects.vercel.app/api?username=eldirb21&show_icons=true&include_all_commits=true&count_private=true)
+
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eldirb21&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8)
 ![Eldirb21's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eldirb21&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true) -->
 
