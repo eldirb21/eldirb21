@@ -28,7 +28,7 @@ Hi, I'm **Eldir**, a passionate **Software Developer** dedicated to crafting inn
 | 🌐 Platforms                               | 📬 Reach Out                                   |
 | ------------------------------------------ | ---------------------------------------------- |
 | 💬 [Telegram Channel](https://t.me/co_eld) | 🌐 [My Portfolio](https://eldirwe.vercel.app) |
-| 🐦 [Follow on X](https://x.com/eldir_b)    | ✉️ eldir.dev.io@gmail.com                          |
+| 🐦 [Follow on X](https://x.com/eldir_b)    | ✉️ [Email](eldir.dev.io@gmail.com )                         |
 | 💡 Sharing Tech Insights                   | 🤝 Open to Collaborations & Opportunities      |
 
 ---
