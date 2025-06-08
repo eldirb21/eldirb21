@@ -1,3 +1,19 @@
+<style>
+.image-style {
+  width: 60%;
+  margin: 20px auto;
+  display: block;
+}
+
+.rounded {
+  border-radius: 10px;
+}
+
+.bordered {
+  border: 1px solid #ccc;
+}
+</style>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
 </p>
@@ -97,18 +113,4 @@ Hi, I'm **Eldir**, a passionate **Software Developer** dedicated to crafting inn
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
 
-<style>
-.image-style {
-  width: 60%;
-  margin: 20px auto;
-  display: block;
-}
 
-.rounded {
-  border-radius: 10px;
-}
-
-.bordered {
-  border: 1px solid #ccc;
-}
-</style>
