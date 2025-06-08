@@ -75,6 +75,7 @@ Hi, I'm **Eldir**, a passionate **Software Developer** dedicated to crafting inn
    <tr>
     <td><strong>Other</strong></td>
     <td>
+      <img src="panama/icons/redux.png" alt="Figma" width="40" height="40" hspace="4"/>
       <img src="panama/icons/figma.png" alt="Figma" width="40" height="40" hspace="4"/>
       <img src="panama/icons/firebase.png" alt="firebase" width="40" height="40" hspace="4"/>
       <img src="panama/icons/onesignal.png" alt="onesignal" width="40" height="40" hspace="4"/>
