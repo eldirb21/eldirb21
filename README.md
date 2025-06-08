@@ -41,7 +41,6 @@ Hi, I'm **Eldir**, a passionate **Software Developer** dedicated to crafting inn
 
 <h2 align="center">🚀 &nbsp;Tech Stack & Tools I've Used</h2>
 
-
 <table width="100%">
   <tr>
     <td><strong>📱 Mobile</strong></td>
@@ -52,9 +51,9 @@ Hi, I'm **Eldir**, a passionate **Software Developer** dedicated to crafting inn
   <tr>
     <td><strong>🌐 Web</strong></td>
     <td>
-      <img src="panama/icons/react.png" alt="React" width="45" height="45" style="border-radius: 100px; margin-right: 8px;" />
-      <img src="panama/icons/nextjs.png" alt="Next.js" width="45" height="45" style="border-radius: 100px; margin: 8px;" hspace="8" />
-      <img src="panama/icons/vuejs.png" alt="Vue.js" width="45" height="45" style="border-radius: 100px;" />
+      <img src="panama/icons/react.png" alt="React" width="45" height="45" class="image-style rounded bordered" />
+      <img src="panama/icons/nextjs.png" alt="Next.js" width="45" height="45" class="image-style rounded bordered" />
+      <img src="panama/icons/vuejs.png" alt="Vue.js" width="45" height="45" class="image-style rounded bordered" />
     </td>
   </tr>
   <tr>
@@ -97,3 +96,19 @@ Hi, I'm **Eldir**, a passionate **Software Developer** dedicated to crafting inn
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
+
+<style>
+.image-style {
+  width: 60%;
+  margin: 20px auto;
+  display: block;
+}
+
+.rounded {
+  border-radius: 10px;
+}
+
+.bordered {
+  border: 1px solid #ccc;
+}
+</style>
