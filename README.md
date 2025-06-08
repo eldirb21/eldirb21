@@ -59,7 +59,9 @@ Hi, I'm **Eldir**, a passionate **Software Developer** dedicated to crafting inn
   <tr>
     <td><strong>🛠️ Backend</strong></td>
     <td>
-      <img src="panama/icons/express.png" alt="Express" width="45" height="45" style="border-radius: 50%;" />
+      <img src="panama/icons/express.png" alt="Expressjs" width="50" height="50" hspace="10"/>
+      <img src="panama/icons/nodejs.png" alt="Nodejs" width="50" height="50" hspace="10"/>
+      <img src="panama/icons/js.png" alt="Nodejs" width="50" height="50" hspace="10"/>
     </td>
   </tr>
   <tr>
