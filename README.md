@@ -46,6 +46,7 @@ Hi, I'm **Eldir**, a passionate **Software Developer** dedicated to crafting inn
     <td><strong>📱 Mobile</strong></td>
     <td>
       <img src="panama/icons/react-native.png" alt="React Native" width="40" height="40" hspace="4"/>
+      <img src="panama/icons/flutter.png" alt="React Native" width="40" height="40" hspace="4"/>
     </td>
   </tr>
   <tr>
@@ -69,6 +70,21 @@ Hi, I'm **Eldir**, a passionate **Software Developer** dedicated to crafting inn
     <td>
       <img src="panama/icons/mysql.png" alt="MySQL" width="40" height="40" hspace="4"/>
       <img src="panama/icons/mongodb.png" alt="MongoDB" width="40" height="40" hspace="4"/>
+    </td>
+  </tr>
+   <tr>
+    <td><strong>Other</strong></td>
+    <td>
+      <img src="panama/icons/figma.png" alt="Figma" width="40" height="40" hspace="4"/>
+      <img src="panama/icons/firebase.png" alt="firebase" width="40" height="40" hspace="4"/>
+      <img src="panama/icons/onesignal.png" alt="onesignal" width="40" height="40" hspace="4"/>
+      <img src="panama/icons/postman.png" alt="postman" width="40" height="40" hspace="4"/>
+      <img src="panama/icons/git.png" alt="git" width="40" height="40" hspace="4"/>
+      <img src="panama/icons/github.png" alt="github" width="40" height="40" hspace="4"/>
+      <img src="panama/icons/jira.png" alt="jira" width="40" height="40" hspace="4"/>
+      <img src="panama/icons/clickup.png" alt="clickup" width="40" height="40" hspace="4"/>
+      <img src="panama/icons/trello.png" alt="trello" width="40" height="40" hspace="4"/>
+      <img src="panama/icons/asana.png" alt="asana" width="40" height="40" hspace="4"/>
     </td>
   </tr>
 </table>
