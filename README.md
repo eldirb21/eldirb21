@@ -70,7 +70,7 @@ Hi, I'm **Eldir**, a passionate **Software Developer** dedicated to crafting inn
 <br>
 
 ![Repos Badge](https://img.shields.io/badge/public%20repos-12-blue)
-[![trophy](https://github-profile-trophy.vercel.app/?username=eldirb21)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://eld-readme-stats-eldirb21s-projects.vercel.app/?username=eldirb21)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
