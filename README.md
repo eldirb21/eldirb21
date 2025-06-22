@@ -31,11 +31,12 @@ I build cross-platform mobile apps using React Native, Firebase, and modern tool
 
 ## 📫 Contact Me
 
-| 🌐 Platforms                            | 📬 Reach Out                              |
-| --------------------------------------- | ----------------------------------------- |
-| 💬 [Linkedin](https://www.linkedin.com/in/eldirb)      | 🌐 [Website](https://eldirwe.vercel.app)  |
-| 🐦 [Follow on X](https://x.com/eldir_b) | ✉️ [Email](mailto:eldir.dev.io@gmail.com) |
-| 🤝 Open to Collaborations & Opportunities 
+| 🌐 Platforms                             | 📬 Reach Out                                |
+| ---------------------------------------- | ------------------------------------------- |
+| 💼 [LinkedIn](https://www.linkedin.com/in/eldirb) | 🌐 [Website](https://eldirwe.vercel.app)     |
+| 🐦 [X (Twitter)](https://x.com/eldir_b)  | ✉️ [Email](mailto:eldir.dev.io@gmail.com)    |
+
+🤝 I'm open to collaborations and new opportunities!
 
 <!-- 
 ## 📊 GitHub Stats
