@@ -33,9 +33,9 @@ I build cross-platform mobile apps using React Native, Firebase, and modern tool
 
 | 🌐 Platforms                            | 📬 Reach Out                              |
 | --------------------------------------- | ----------------------------------------- |
-| 💬 [Telegram](https://t.me/co_eld)      | 🌐 [Website](https://eldirwe.vercel.app)  |
+| 💬 [Linkedin](https://www.linkedin.com/in/eldirb)      | 🌐 [Website](https://eldirwe.vercel.app)  |
 | 🐦 [Follow on X](https://x.com/eldir_b) | ✉️ [Email](mailto:eldir.dev.io@gmail.com) |
-| 💡 Sharing Tech Insights                | 🤝 Open to Collaborations & Opportunities |
+| 🤝 Open to Collaborations & Opportunities 
 
 <!-- 
 ## 📊 GitHub Stats
