@@ -65,8 +65,3 @@ I build cross-platform mobile apps using React Native, Firebase, and modern tool
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
-
-.. image:: panama/icons/mysql.png
-   :height: 100px
-   :width: 200 px
-   :scale: 50 %
