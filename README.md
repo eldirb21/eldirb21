@@ -14,15 +14,6 @@
 
 I'm a passionate React Native Developer from Indonesia 🇮🇩  
 I build cross-platform mobile apps using React Native, Firebase, and modern tools.
-
-## 🔧 Tech Stack
-- React Native (Android & iOS)
-- Firebase (Auth, Realtime DB, Firestore, Cloud Messaging)
-- React / Nextjs / Vuejs
-- Redux / Mobx
-- Node.js / Expressjs & MongoDB
-- RESTful APIs
-
 ---
 
 ## 📱 Recent Projects
@@ -47,7 +38,7 @@ I build cross-platform mobile apps using React Native, Firebase, and modern tool
 
 ---
 
-## Technology Stack
+## 🔧 Tech Stack
 
 | Category        | Technologies/Tools                                                                 |
 |-----------------|-----------------------------------------------------------------------------------|
