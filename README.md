@@ -10,10 +10,21 @@
   <img src="https://shields.io/badge/👨‍💻-Eldir-blue?style=for-the-badge&logo=github&logoColor=white" alt="Eldir's Avatar" style="border-radius: 50%; width: 150px; border: 2px solid #ccc; display: block;"/>
 </p>
 
-### 👋 Hi there!
+# 👋 Hi, I'm Eldir Buulolo
 
-> "Protecting privacy requires action, and someone must take the lead.  
-> If privacy is a right we all deserve, then we will be the ones to build the software that ensures it."
+I'm a passionate React Native Developer from Indonesia 🇮🇩  
+I build cross-platform mobile apps using React Native, Firebase, and modern tools.
+
+## 🔧 Tech Stack
+- React Native (Android & iOS)
+- Firebase (Auth, Realtime DB, Firestore, Cloud Messaging)
+- Redux / Zustand
+- Node.js & MongoDB
+- RESTful APIs
+
+## 📱 Recent Projects
+- 💬 Meme Chat App — [GitHub](https://github.com/eldirb21/meme-generated-test)
+- 📝 Notes App — [Release](https://github.com/eldirb21/Notes/releases/tag/Android)
 
 ---
 
