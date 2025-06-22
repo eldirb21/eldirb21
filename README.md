@@ -28,12 +28,6 @@ I build cross-platform mobile apps using React Native, Firebase, and modern tool
 
 ---
 
-### 🌟 About Me
-
-Hi, I'm **Eldir**, a passionate **Software Developer** dedicated to crafting innovative solutions. I believe that every line of code is a step towards a brighter, more secure digital future. Let's connect and create something awesome together!
-
----
-
 ### 💬 Let's Connect!
 
 | 🌐 Platforms                            | 📬 Reach Out                              |
