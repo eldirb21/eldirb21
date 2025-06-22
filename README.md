@@ -58,7 +58,7 @@ I build cross-platform mobile apps using React Native, Firebase, and modern tool
 
 <p align="center">
   <i>"Coding is not just a profession; it's an art of problem-solving."</i>  
-  <br><b>- Keep Learning, Keep Growing -</b> 🌱
+  <br/><b>- Keep Learning, Keep Growing -</b> 🌱
 </p>
 
 <p align="center">
