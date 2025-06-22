@@ -37,8 +37,6 @@ I build cross-platform mobile apps using React Native, Firebase, and modern tool
 | 🐦 [Follow on X](https://x.com/eldir_b) | ✉️ [Email](mailto:eldir.dev.io@gmail.com) |
 | 💡 Sharing Tech Insights                | 🤝 Open to Collaborations & Opportunities |
 
-<br>
-
 <!-- 
 ## 📊 GitHub Stats
 
