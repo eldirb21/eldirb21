@@ -22,22 +22,6 @@ I build cross-platform mobile apps using React Native, Firebase, and modern tool
 
 ---
 
-## 📫 Contact Me
-
-| 🌐 Platforms                            | 📬 Reach Out                              |
-| --------------------------------------- | ----------------------------------------- |
-| 💬 [Telegram](https://t.me/co_eld)      | 🌐 [Website](https://eldirwe.vercel.app)  |
-| 🐦 [Follow on X](https://x.com/eldir_b) | ✉️ [Email](mailto:eldir.dev.io@gmail.com) |
-| 💡 Sharing Tech Insights                | 🤝 Open to Collaborations & Opportunities |
-
----
-
-### 🚀 My Motto
-
-> _"Stay committed to the journey of coding. Each line of code you write is a building block of innovation and progress. Remember, every solved challenge is a step closer to greatness. The most remarkable results are achieved by those who refuse to give up."_
-
----
-
 ## 🔧 Tech Stack
 
 | Category        | Technologies/Tools                                                                 |
@@ -49,6 +33,16 @@ I build cross-platform mobile apps using React Native, Firebase, and modern tool
 | **🧩 Other**    | [![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white)](https://redux.js.org/) [![MobX](https://img.shields.io/badge/MobX-FF9955?logo=mobx&logoColor=white)](https://mobx.js.org/) [![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](https://www.figma.com/) [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)](https://firebase.google.com/) [![OneSignal](https://img.shields.io/badge/OneSignal-FF0000?logo=onesignal&logoColor=white)](https://onesignal.com/) [![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)](https://www.postman.com/) [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)](https://git-scm.com/) [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/) [![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)](https://www.atlassian.com/software/jira) [![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?logo=clickup&logoColor=white)](https://clickup.com/) [![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=white)](https://trello.com/) [![Asana](https://img.shields.io/badge/Asana-FB5A5A?logo=asana&logoColor=white)](https://asana.com/) |
 
 <br>
+
+## 📫 Contact Me
+
+| 🌐 Platforms                            | 📬 Reach Out                              |
+| --------------------------------------- | ----------------------------------------- |
+| 💬 [Telegram](https://t.me/co_eld)      | 🌐 [Website](https://eldirwe.vercel.app)  |
+| 🐦 [Follow on X](https://x.com/eldir_b) | ✉️ [Email](mailto:eldir.dev.io@gmail.com) |
+| 💡 Sharing Tech Insights                | 🤝 Open to Collaborations & Opportunities |
+
+---
 
 ## 📊 GitHub Stats
 
