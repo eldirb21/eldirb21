@@ -39,7 +39,7 @@ I build cross-platform mobile apps using React Native, Firebase, and modern tool
 
 <br>
 
-
+<!-- 
 ## 📊 GitHub Stats
 
 ### ✨ My Performance
@@ -55,6 +55,7 @@ I build cross-platform mobile apps using React Native, Firebase, and modern tool
 ![Repos Badge](https://img.shields.io/badge/public%20repos-12-blue)
 [![trophy](https://github-profile-trophy.vercel.app/?username=eldirb21)](https://github.com/ryo-ma/github-profile-trophy)
 
+-->
 ---
 
 <p align="center">
