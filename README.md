@@ -18,9 +18,12 @@ I build cross-platform mobile apps using React Native, Firebase, and modern tool
 ## 🔧 Tech Stack
 - React Native (Android & iOS)
 - Firebase (Auth, Realtime DB, Firestore, Cloud Messaging)
-- Redux / Zustand
-- Node.js & MongoDB
+- React / Nextjs / Vuejs
+- Redux / Mobx
+- Node.js / Expressjs & MongoDB
 - RESTful APIs
+
+---
 
 ## 📱 Recent Projects
 - 💬 Meme Chat App — [GitHub](https://github.com/eldirb21/meme-generated-test)
@@ -28,7 +31,7 @@ I build cross-platform mobile apps using React Native, Firebase, and modern tool
 
 ---
 
-### 💬 Let's Connect!
+## 📫 Contact Me
 
 | 🌐 Platforms                            | 📬 Reach Out                              |
 | --------------------------------------- | ----------------------------------------- |
