@@ -14,13 +14,10 @@
 
 I'm a passionate React Native Developer from Indonesia 🇮🇩  
 I build cross-platform mobile apps using React Native, Firebase, and modern tools.
----
 
 ## 📱 Recent Projects
 - 💬 Meme Chat App — [GitHub](https://github.com/eldirb21/meme-generated-test)
 - 📝 Notes App — [Release](https://github.com/eldirb21/Notes/releases/tag/Android)
-
----
 
 ## 🔧 Tech Stack
 
