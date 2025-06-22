@@ -2,14 +2,13 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
 </p>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
-  
-  <img src="https://github.com/eldirb21.png" width="150" style="border-radius: 50%; border: 2px solid #ccc;" />
-  
-  <h2>👋 Hi, I'm <strong>Eldir Buulolo</strong></h2>
-  <p>React Native Developer • Firebase Enthusiast • Mobile Craftsman</p>
-</div>
+<p align="center" style="margin: 0; padding: 0; font-size: 0;">
+  <img src="https://github.com/eldirb21.png" alt="Profile Picture" style="border-radius: 50%; width: 150px; height: 150px; border: 2px solid #ccc; display: block;"/>
+</p>
+
+<p align="center" style="margin: 0; padding: 0; font-size: 0;">
+  <img src="https://shields.io/badge/👨‍💻-Eldir-blue?style=for-the-badge&logo=github&logoColor=white" alt="Eldir's Avatar" style="border-radius: 50%; width: 150px; border: 2px solid #ccc; display: block;"/>
+</p>
 
 
 # 👋 Hi, I'm Eldir Buulolo
